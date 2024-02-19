@@ -7,3 +7,4 @@ age=input('age:')
 print('Tu t\'appelles, '+prenom+" tu es né(e) à "+ville_naissance+" et tu as "+age, end=".")
 
 "bonjour".isdigit
+help(str.)
